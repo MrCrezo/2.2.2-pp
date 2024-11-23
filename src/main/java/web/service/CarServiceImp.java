@@ -2,8 +2,8 @@ package web.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import web.config.Dao.CarDao;
-import web.config.model.Car;
+import web.Dao.CarDao;
+import web.model.Car;
 
 import java.util.List;
 

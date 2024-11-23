@@ -1,6 +1,6 @@
-package web.config.Dao;
+package web.Dao;
 
-import web.config.model.Car;
+import web.model.Car;
 
 import java.util.List;
 
